@@ -1,14 +1,15 @@
 ---
-title: Streamlit Template Space
+title: Language Translator
 emoji: 🚀
 colorFrom: red
 colorTo: red
 sdk: docker
 app_port: 8501
 tags:
-  - streamlit
+- streamlit
 pinned: false
-short_description: Streamlit template space
+short_description: A web-based language translator with text-to-speech support.
+license: mit
 ---
 
 # Welcome to Streamlit!
