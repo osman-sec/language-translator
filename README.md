@@ -8,6 +8,10 @@ A web-based language translator with **text-to-speech support**, built using **S
 - Convert translated text to speech (TTS).
 - Simple and interactive web interface.
 
+
+
+
+
 ## How to Use
 1. Enter the text you want to translate.
 2. Specify the source language (or leave "auto" to detect automatically).
